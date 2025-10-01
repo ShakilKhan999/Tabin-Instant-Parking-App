@@ -27,19 +27,29 @@ A comprehensive Flutter application for smart parking solutions that helps users
 ## 📱 App Screenshots
 
 <!-- App screenshots (added to assets/app_screenshots/) -->
-![Onboarding](assets/app_screenshots/onboarding.jpg)
+<p align="center">
+	<img src="assets/app_screenshots/onboarding.jpg" alt="Onboarding" width="600" style="max-width:100%;height:auto;" />
+</p>
 *Onboarding screens and first-run experience*
 
-![Auth](assets/app_screenshots/auth.jpg)
+<p align="center">
+	<img src="assets/app_screenshots/auth.jpg" alt="Auth" width="600" style="max-width:100%;height:auto;" />
+</p>
 *Authentication and login UI*
 
-![Home](assets/app_screenshots/home.jpg)
+<p align="center">
+	<img src="assets/app_screenshots/home.jpg" alt="Home" width="600" style="max-width:100%;height:auto;" />
+</p>
 *Main dashboard and parking features*
 
-![Welcome](assets/app_screenshots/welcome_screen.jpg)
+<p align="center">
+	<img src="assets/app_screenshots/welcome_screen.jpg" alt="Welcome" width="600" style="max-width:100%;height:auto;" />
+</p>
 *Welcome / splash screen*
 
-![Other screens](assets/app_screenshots/others.jpg)
+<p align="center">
+	<img src="assets/app_screenshots/others.jpg" alt="Other screens" width="600" style="max-width:100%;height:auto;" />
+</p>
 *Additional app screens and interactions*
 
 ## 🛠 Tech Stack
